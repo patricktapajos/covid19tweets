@@ -13,3 +13,8 @@ Alunos de pós-graduação em Ciência de Dados da Universidade do Estado do Ama
 
 ### Ferramentas Utilizadas
 A análise foi efetuada utilizando-se a linguagem de programação **Python** e suas bibliotecas para análise e processamento de dados **Pandas** e **NumPy**, bem como as bibliotecas **Matplotlib** e **Seaborn** para visualização de dados, além de API´s e outras bibliotecas que serão apresentadas no dercorrer do documento.
+
+### Execução
+A execução dos códigos podem ser efetuadas diretamente no Colab (https://colab.research.google.com) ou com o jupyter (https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-ciq11cxz/lab). 
+
+Caso queira clonar o projeto, certifique-se de instalar o Jupyter no seu ambiente local. 
